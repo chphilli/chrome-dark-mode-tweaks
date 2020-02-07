@@ -1,1 +1,17 @@
-h1 { color: orange }
+A:link { color:#00ff99 }
+A:visited { color:#4400ff }
+
+button { background-color: #f2f2f2; }
+select { background-color: #f2f2f2; }
+
+
+/* Eng. Review tool */
+.bg-success { background-color: darkgreen !important }
+
+/* Confluence diagrams */
+#com-atlassian-confluence path { stroke: green; }
+#com-atlassian-confluence g rect { stroke: green; }
+
+/* Github */
+.btn { background-image: none; }
+.signup-prompt-bg { background-image: none; }
