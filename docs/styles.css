@@ -19,3 +19,7 @@ div.pagehead.repohead.readability-menu.bg-gray-light svg { color: dimgrey; }
 /* Amazon */
 .s-result-card, .s-item-container { background-image: none !important; }
 .a-button, .a-button-inner { background: none !important; }
+
+/* Pingboard */
+.node__dept { background-image: none !important; }
+.node__title { color: white; }
